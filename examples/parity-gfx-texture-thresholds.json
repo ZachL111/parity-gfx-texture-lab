@@ -1,0 +1,17 @@
+{
+  "repo": "parity-gfx-texture-lab",
+  "thresholds": {
+    "signal": 3,
+    "slack": 1,
+    "confidence": 1,
+    "drag": 2,
+    "ship": 169,
+    "watch": 107
+  },
+  "terms": [
+    "geometry span",
+    "atlas pressure",
+    "shader drift",
+    "render budget"
+  ]
+}
